@@ -1,0 +1,6 @@
+data/
+*.csv
+insurance_risk_outputs*/
+__pycache__/
+.ipynb_checkpoints/
+*.joblib
